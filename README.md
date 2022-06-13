@@ -1,4 +1,4 @@
-## Hi👋🏽, I'm José 🏽
+## Hi👋🏽, I'm José
 
 ### Social media:
 <a href="https://www.github.com/Jdvd01" target="_blank" rel="noreferrer">
