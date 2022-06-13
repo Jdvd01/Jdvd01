@@ -1,4 +1,6 @@
-## Hi👋🏽, I'm José
+## Hi👋🏽, I'm José. <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
 
 ### Social media:
 <a href="https://www.github.com/Jdvd01" target="_blank" rel="noreferrer">
