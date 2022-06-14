@@ -7,7 +7,7 @@ const aboutMe = {
       native: "spanish",
       learning: "english"
    },
-   code: [HTML, CSS, Javascript, Python],
+   code: ["HTML", "CSS", "Javascript", "Python"],
    hobbies: ["games", "books"],
    technologies: {
       frontEnd: {
