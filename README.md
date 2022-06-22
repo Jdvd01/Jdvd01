@@ -63,8 +63,14 @@ const aboutMe = {
    </code>
    <code>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg"
+        src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png"
         width="40" height="40" alt="Flask" />
+    </a>
+   </code>
+   <code>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
+        src="https://png.monster/wp-content/uploads/2022/02/png.monster-711-450x232.png"
+        width="60" height="40" alt="MySQL" />
     </a>
    </code>
 </p>
@@ -72,7 +78,7 @@ const aboutMe = {
 ### 💬Social media:
 <code>
     <a href="https://www.github.com/Jdvd01" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+    <img src="https://w7.pngwing.com/pngs/593/30/png-transparent-github-computer-icons-commit-repository-github-mammal-cat-like-mammal-carnivoran.png"
         width="40" height="40" alt="github" />
 </a>
 </code>
