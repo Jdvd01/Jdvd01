@@ -87,6 +87,11 @@ const aboutMe = {
     <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="40" heigh="40" alt="linkedin" />
 </a>
 </code>
+<code>
+<a href="mailto:velasquezdenorajose@gmail.com">
+    <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" width="40" heigh="40" alt="gmail" />
+</a>
+</code>
 
 
 ### 👾Be aware with my bugs🐞
