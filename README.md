@@ -94,6 +94,6 @@ const aboutMe = {
 </code>
 
 
-### 👾Be aware with my bugs🐞
+### 👾Be aware of my bugs🐞
 
 <img src="https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif" width="150"> <img src="https://media.giphy.com/media/JR7iS0j2YwfW9mopu3/giphy.gif" width="150" height="200">
