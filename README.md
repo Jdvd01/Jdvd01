@@ -19,7 +19,7 @@ const aboutMe = {
       },
       databases: ["mySQL"]
    },
-   currentOccupation: "Student, open for job opportunities"
+   currentOccupation: "Teacher Assistant at 4Geeks Academy, open for job opportunities"
 };
 ```
 
