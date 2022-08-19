@@ -69,7 +69,7 @@ const aboutMe = {
    </code>
    <code>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
-        src="https://png.monster/wp-content/uploads/2022/02/png.monster-711-450x232.png"
+        src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"
         width="60" height="40" alt="MySQL" />
     </a>
    </code>
