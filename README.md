@@ -92,8 +92,3 @@ const aboutMe = {
     <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" width="40" heigh="40" alt="gmail" />
 </a>
 </code>
-
-
-### 👾Be aware of my bugs🐞
-
-<img src="https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif" width="150"> <img src="https://media.giphy.com/media/JR7iS0j2YwfW9mopu3/giphy.gif" width="150" height="200">
