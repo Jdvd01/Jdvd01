@@ -92,3 +92,7 @@ const aboutMe = {
     <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" width="40" heigh="40" alt="gmail" />
 </a>
 </code>
+</br>
+</br>
+
+![Profile views](https://gpvc.arturio.dev/jdvd01)
