@@ -4,7 +4,7 @@
 const aboutMe = {
    pronouns: "he" | "him",
    languages: {
-      native: "spanish, french",
+      native: "spanish",
       learning: "english"
    },
    code: ["HTML", "CSS", "Javascript", "Python"],
