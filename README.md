@@ -2,24 +2,27 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
+   pronouns: "He" | "Him",
    languages: {
-      native: "spanish",
-      learning: "english"
+      native: "Spanish",
+      secondary: "English (B2)"
    },
    code: ["HTML", "CSS", "Javascript", "Python"],
-   hobbies: ["games", "books"],
+   hobbies: ["Games", "Books"],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap"]
+         js: ["React", "NextJS"],
+         css: ["Bootstrap", "ChakraUI"]
       },
       backEnd: {
          python: ["flask"]
       },
       databases: ["mySQL"]
    },
-   currentOccupation: "Teacher Assistant at 4Geeks Academy, open for job opportunities"
+   currentOccupation: [
+      "Teacher Assistant at 4Geeks Academy",
+      "Frontend web developer at Bluelight Tech"
+   ]
 };
 ```
 
@@ -56,6 +59,14 @@ const aboutMe = {
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
         src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"
         width="60" height="40" alt="MySQL" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSGbDArhb4duwXwCnWJ-uRetk8SKJ1j8phQ"
+        width="40" height="40" alt="MySQL" />
+    </a>
+    <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img
+        src="https://www.coffeeclass.io/logos/chakra-ui.png"
+        width="40" height="40" alt="MySQL" />
     </a>
 </p>
 
