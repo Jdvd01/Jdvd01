@@ -85,7 +85,3 @@ const aboutMe = {
         src="https://us.123rf.com/450wm/sanek13744/sanek137441704/sanek13744170400526/76112806-ir-al-icono-de-la-web-ilustraci%C3%B3n-vectorial-plana-de-internet-para-el-sitio-web-sobre-fondo-negro-.jpg?ver=6"
         width="40" height="40" alt="MySQL" />
 </a>
-</br>
-</br>
-
-![Profile views](https://gpvc.arturio.dev/jdvd01)
