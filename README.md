@@ -13,17 +13,15 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "NextJS"],
-         css: ["Bootstrap", "ChakraUI"]
+         css: ["Bootstrap", "ChakraUI", "TailwindCSS"]
       },
       backEnd: {
          python: ["flask"]
       },
       databases: ["mySQL"]
    },
-   currentOccupation: [
-      "Teacher Assistant at 4Geeks Academy",
-      "Frontend web developer at Bluelight Tech"
-   ]
+   learning: ["Dart", "Flutter"],
+   currentOccupation: ["Teacher Assistant at 4Geeks Academy"]
 };
 ```
 
