@@ -13,7 +13,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "NextJS"],
-         css: ["Bootstrap", "ChakraUI", "TailwindCSS"]
+         css: ["Bootstrap", "ChakraUI", "TailwindCSS", "MaterialUI"]
       },
       backEnd: {
          python: ["flask"]
