@@ -16,7 +16,7 @@ const aboutMe = {
          css: ["Bootstrap", "ChakraUI", "TailwindCSS", "MaterialUI"]
       },
       backEnd: {
-         python: ["flask"]
+         python: ["flask", "nodeJS", "express", "prisma"]
       },
       databases: ["mySQL"]
    },
