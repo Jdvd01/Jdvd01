@@ -20,7 +20,7 @@ const aboutMe = {
       },
       databases: ["mySQL"]
    },
-   learning: ["Dart", "Flutter"],
+   learning: ["Dart", "Flutter", "React native"],
    currentOccupation: ["Teacher Assistant at 4Geeks Academy"]
 };
 ```
