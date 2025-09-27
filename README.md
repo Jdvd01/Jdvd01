@@ -80,7 +80,7 @@ const aboutMe = {
 <a href="mailto:velasquezdenorajose@gmail.com">
     <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" width="40" heigh="40" alt="gmail" />
 </a>
-<a href="https://portfolio-jdvd01.vercel.app/" target="_blank" rel="noreferrer"><img
+<a href="https://www.josevelasquez.dev" target="_blank" rel="noreferrer"><img
         src="https://us.123rf.com/450wm/sanek13744/sanek137441704/sanek13744170400526/76112806-ir-al-icono-de-la-web-ilustraci%C3%B3n-vectorial-plana-de-internet-para-el-sitio-web-sobre-fondo-negro-.jpg?ver=6"
         width="40" height="40" alt="MySQL" />
 </a>
